@@ -1,6 +1,7 @@
 package cn.datacharm.proxy.demo;
 
 /**
+ * 被代理用户
  * @author datacharm.cn
  */
 public class User implements IUser {

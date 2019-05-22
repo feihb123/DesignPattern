@@ -1,4 +1,4 @@
-package cn.datacharm.Adaptor;
+package cn.datacharm.adaptor;
 
 public class Test {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package cn.datacharm.Adaptor;
+package cn.datacharm.adaptor;
 
 import java.util.Arrays;
 

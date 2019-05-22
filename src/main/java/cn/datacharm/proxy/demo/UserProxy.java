@@ -1,10 +1,11 @@
 package cn.datacharm.proxy.demo;
 
 /**
+ * 代理类
  * @author datacharm.cn
  */
 public class UserProxy implements IUser {
-    IUser user;
+    private IUser user;
 
     public UserProxy(IUser user) {
         this.user = user;

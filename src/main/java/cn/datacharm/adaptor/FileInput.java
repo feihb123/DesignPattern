@@ -1,4 +1,4 @@
-package cn.datacharm.Adaptor;
+package cn.datacharm.adaptor;
 
 public class FileInput {
     String[] readFromFile(String filename)
