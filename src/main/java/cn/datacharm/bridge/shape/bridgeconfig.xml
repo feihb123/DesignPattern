@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<bridge>
+    <shapes>
+        <shape name="圆" class="cn.datacharm.bridge.Circle"/>
+        <shape name="长方形" class="cn.datacharm.bridge.Rectangle"/>
+        <shape name="正方形" class="cn.datacharm.bridge.Square"/>
+    </shapes>
+
+    <brushes>
+        <brush name="红色" class="cn.datacharm.bridge.RedBrush"/>
+        <brush name="黑色" class="cn.datacharm.bridge.BlackBrush"/>
+        <brush name="蓝色" class="cn.datacharm.bridge.BlueBrush"/>
+        <brush name="绿色" class="cn.datacharm.bridge.GreenBrush"/>
+    </brushes>
+</bridge>

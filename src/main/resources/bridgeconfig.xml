@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<bridge>
+    <shapes>
+        <shape name="圆" class="sdp.structure.bridge.Circle"/>
+        <shape name="长方形" class="sdp.structure.bridge.Rectangle"/>
+        <shape name="正方形" class="sdp.structure.bridge.Square"/>
+    </shapes>
+
+    <brushes>
+        <brush name="红色" class="sdp.structure.bridge.RedBrush"/>
+        <brush name="黑色" class="sdp.structure.bridge.BlackBrush"/>
+        <brush name="蓝色" class="sdp.structure.bridge.BlueBrush"/>
+        <brush name="绿色" class="sdp.structure.bridge.GreenBrush"/>
+    </brushes>
+</bridge>
