@@ -7,8 +7,8 @@ package cn.datacharm.proxy.demo;
 public class UserProxy implements IUser {
     private IUser user;
 
-    public UserProxy(IUser user) {
-        this.user = user;
+    public UserProxy() {
+        user = new User();
     }
 
     @Override
