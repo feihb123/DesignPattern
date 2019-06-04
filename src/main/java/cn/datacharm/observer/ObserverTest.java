@@ -12,9 +12,9 @@ public class ObserverTest {
         server.register(user1);
         server.register(user2);
         server.register(user3);
-        server.setMessage("推送一条文章");
+        server.setMessage("推送一篇文章");
         server.remove(user3);
-        server.setMessage("又推送一条文件");
+        server.setMessage("又推送一篇文章");
 
     }
 }

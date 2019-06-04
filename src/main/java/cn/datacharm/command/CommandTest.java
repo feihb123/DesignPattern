@@ -14,6 +14,5 @@ public class CommandTest {
         switchs.receiveCommand(adjust);
         switchs.receiveCommand(turnOff);
         switchs.executeCommands();
-
     }
 }
