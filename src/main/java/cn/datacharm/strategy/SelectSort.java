@@ -21,6 +21,6 @@ public class SelectSort implements Sort {
             arr[samllestLocation] = arr[i];
             arr[i] = temp;
         }
-        System.out.println("快速排序");
+        System.out.println("选择排序");
     }
 }
