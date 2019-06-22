@@ -7,5 +7,4 @@ package cn.datacharm.visitor;
 public interface AccountView {
     void view(ConsumerBill consumerBill);
     void view(IncomeBill incomeBill);
-
 }

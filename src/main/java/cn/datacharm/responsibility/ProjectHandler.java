@@ -4,8 +4,6 @@ package cn.datacharm.responsibility;
  * @author datacharm.cn
  */
 public class ProjectHandler extends  Handler {
-
-
     @Override
     public void Handle(Task task) {
         String taskLevel = task.name;
