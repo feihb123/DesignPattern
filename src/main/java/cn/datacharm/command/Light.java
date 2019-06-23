@@ -1,7 +1,7 @@
 package cn.datacharm.command;
 
 /**
- * 被操作的对象
+ * 命令接受者  Reiver
  * @author datacharm.cn
  */
 public class Light {

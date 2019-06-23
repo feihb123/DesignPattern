@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 开关  -接收命令者
+ * 开关  -调用命令者 Invoker
  * @author datacharm.cn
  */
 public class Switch {
